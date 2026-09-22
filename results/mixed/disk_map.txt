@@ -1,4 +1,4 @@
-RSAcademy | samples\mixed.bin
+RSAcademy | samples/mixed.bin
 Backend: python | Artifacts: 2
 Map: ##################################################################......
 - 0x00000006 .jpg 16 bytes valid entropy=3.4528

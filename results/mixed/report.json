@@ -1,7 +1,7 @@
 {
   "project": "RSAcademy - RSA attack suite",
   "source": {
-    "path": "samples\\mixed.bin",
+    "path": "samples/mixed.bin",
     "size": 57,
     "md5": "b3e9629a5b92fd2eed8b58a254d1555a",
     "sha256": "0eb3a201702a9d1e9b7569d6e39bde4f2adecc1bbdfa7486a365b606b24794d3",
@@ -11,7 +11,7 @@
   "extracted_files_count": 2,
   "artifacts": [
     {
-      "source": "samples\\mixed.bin",
+      "source": "samples/mixed.bin",
       "offset": 6,
       "size": 16,
       "file_type": "JPEG image",
@@ -22,10 +22,10 @@
       "entropy": 3.4528,
       "entropy_class": "medium",
       "truncated": false,
-      "extracted_path": "results\\mixed\\extracted_files\\file_001_0x00000006.jpg"
+      "extracted_path": "results/mixed/extracted_files/file_001_0x00000006.jpg"
     },
     {
-      "source": "samples\\mixed.bin",
+      "source": "samples/mixed.bin",
       "offset": 34,
       "size": 19,
       "file_type": "PDF document",
@@ -36,7 +36,7 @@
       "entropy": 3.6819,
       "entropy_class": "medium",
       "truncated": false,
-      "extracted_path": "results\\mixed\\extracted_files\\file_002_0x00000022.pdf"
+      "extracted_path": "results/mixed/extracted_files/file_002_0x00000022.pdf"
     }
   ],
   "offset_map": [
@@ -74,5 +74,5 @@
     }
   ],
   "warnings": [],
-  "execution_seconds": 0.0021
+  "execution_seconds": 0.0007
 }
