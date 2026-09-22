@@ -1,0 +1,23 @@
+{
+  "project": "RSAcademy - RSA attack suite",
+  "source": {
+    "path": "C:\\Users\\hp\\Desktop\\RSAcademy - RSA attack suite\\wallpaper\\RDT_20250720_1230094960238835608886322 - Copy.jpg",
+    "size": 111478,
+    "md5": "66938fe1ca5a49145fe81fffcad30afb",
+    "sha256": "d972bc054522b2c1a09c24068eb492bcaa39c4f6957e8a3d9b9850262c363cb7",
+    "entropy": 7.9982
+  },
+  "backend": "python",
+  "extracted_files_count": 0,
+  "artifacts": [],
+  "offset_map": [
+    {
+      "start": 0,
+      "end": 111478,
+      "kind": "unmapped",
+      "size": 111478
+    }
+  ],
+  "warnings": [],
+  "execution_seconds": 0.0069
+}

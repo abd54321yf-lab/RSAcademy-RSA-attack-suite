@@ -1,0 +1,51 @@
+{
+  "project": "RSAcademy - RSA attack suite",
+  "source": {
+    "path": "C:\\Users\\hp\\Desktop\\RSAcademy - RSA attack suite\\telegram\\Database Mangagement System\\Chapter 4\\Chapter 4 explain.pdf",
+    "size": 393077,
+    "md5": "30e40ae0b4684fec59e955fd2a0cf8d8",
+    "sha256": "234ed4b68ee3da87c109f8ea82295c3cd443bc0ccfdd5818b50108895fe8fd9d",
+    "entropy": 7.9554
+  },
+  "backend": "python",
+  "extracted_files_count": 1,
+  "artifacts": [
+    {
+      "source": "C:\\Users\\hp\\Desktop\\RSAcademy - RSA attack suite\\telegram\\Database Mangagement System\\Chapter 4\\Chapter 4 explain.pdf",
+      "offset": 0,
+      "size": 393076,
+      "file_type": "PDF document",
+      "extension": ".pdf",
+      "validation_status": "valid",
+      "md5": "973ca4c27dba64eedc37a4a94e0d9b36",
+      "sha256": "6ba990d2f837d50caf58592d97d2fa15cdf53c08d45f26ce9e9b8fdbf1b3af0d",
+      "entropy": 7.9554,
+      "entropy_class": "very-high",
+      "truncated": false,
+      "extracted_path": "results\\Chapter 4 explain\\extracted_files\\file_001_0x00000000.pdf"
+    }
+  ],
+  "offset_map": [
+    {
+      "start": 0,
+      "end": 393076,
+      "kind": "artifact",
+      "type": ".pdf",
+      "size": 393076
+    },
+    {
+      "start": 393076,
+      "end": 393077,
+      "kind": "unmapped",
+      "size": 1
+    }
+  ],
+  "warnings": [
+    {
+      "offset": 0,
+      "type": "high-entropy",
+      "message": "High entropy range may indicate compression, encryption, or packed data"
+    }
+  ],
+  "execution_seconds": 0.1199
+}

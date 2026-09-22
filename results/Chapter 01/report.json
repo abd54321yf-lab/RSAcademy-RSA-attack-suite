@@ -1,0 +1,45 @@
+{
+  "project": "RSAcademy - RSA attack suite",
+  "source": {
+    "path": "C:\\Users\\hp\\Desktop\\RSAcademy - RSA attack suite\\telegram\\Database Mangagement System\\Chapter 1\\Chapter 01.pdf",
+    "size": 502554,
+    "md5": "40a2c0c2f1ea05ac65ebde6d3d0ef29d",
+    "sha256": "7336fb92182be4cbc49b17ac80095d46b087407af3199df4dbb3c6baed2d726d",
+    "entropy": 7.4771
+  },
+  "backend": "python",
+  "extracted_files_count": 1,
+  "artifacts": [
+    {
+      "source": "C:\\Users\\hp\\Desktop\\RSAcademy - RSA attack suite\\telegram\\Database Mangagement System\\Chapter 1\\Chapter 01.pdf",
+      "offset": 0,
+      "size": 502553,
+      "file_type": "PDF document",
+      "extension": ".pdf",
+      "validation_status": "valid",
+      "md5": "2535f3cd23f41164773dca9423ec81bc",
+      "sha256": "732a557922af720f20a0f2817e5d5bb1f6c5834751573205fce329af8a0701c4",
+      "entropy": 7.4771,
+      "entropy_class": "high",
+      "truncated": false,
+      "extracted_path": "results\\Chapter 01\\extracted_files\\file_001_0x00000000.pdf"
+    }
+  ],
+  "offset_map": [
+    {
+      "start": 0,
+      "end": 502553,
+      "kind": "artifact",
+      "type": ".pdf",
+      "size": 502553
+    },
+    {
+      "start": 502553,
+      "end": 502554,
+      "kind": "unmapped",
+      "size": 1
+    }
+  ],
+  "warnings": [],
+  "execution_seconds": 0.1269
+}

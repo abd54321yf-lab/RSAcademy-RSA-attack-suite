@@ -1,0 +1,83 @@
+{
+  "project": "RSAcademy - RSA attack suite",
+  "source": {
+    "path": "C:\\Users\\hp\\Desktop\\RSAcademy - RSA attack suite\\wallpaper\\wallhaven-p8rxz9 - Copy.jpg",
+    "size": 663334,
+    "md5": "4e38c7ae161aef17bdbc42fd1466acde",
+    "sha256": "793ae07d7ac54acd9a496648b46b76e30b312d674fc0300e11e2abb15a82c5cf",
+    "entropy": 7.8583
+  },
+  "backend": "python",
+  "extracted_files_count": 2,
+  "artifacts": [
+    {
+      "source": "C:\\Users\\hp\\Desktop\\RSAcademy - RSA attack suite\\wallpaper\\wallhaven-p8rxz9 - Copy.jpg",
+      "offset": 0,
+      "size": 4191,
+      "file_type": "JPEG image",
+      "extension": ".jpg",
+      "validation_status": "valid",
+      "md5": "06e8605d254c7cb2d32dbf1a21673186",
+      "sha256": "84950f9c34ec6fed278e0f3f9e4a38e8b49b62843b6af10e02ac9df1f972af6f",
+      "entropy": 7.5655,
+      "entropy_class": "very-high",
+      "truncated": false,
+      "extracted_path": "results\\wallhaven-p8rxz9 - Copy\\extracted_files\\file_001_0x00000000.jpg"
+    },
+    {
+      "source": "C:\\Users\\hp\\Desktop\\RSAcademy - RSA attack suite\\wallpaper\\wallhaven-p8rxz9 - Copy.jpg",
+      "offset": 6521,
+      "size": 3529,
+      "file_type": "JPEG image",
+      "extension": ".jpg",
+      "validation_status": "valid",
+      "md5": "7dada67ceda466440dae87c9b7d3c074",
+      "sha256": "12ef8da82c1b84251ad77d95f6e3ca9847f24bce983c0996de22f2c1aafe96a2",
+      "entropy": 7.8091,
+      "entropy_class": "very-high",
+      "truncated": false,
+      "extracted_path": "results\\wallhaven-p8rxz9 - Copy\\extracted_files\\file_002_0x00001979.jpg"
+    }
+  ],
+  "offset_map": [
+    {
+      "start": 0,
+      "end": 4191,
+      "kind": "artifact",
+      "type": ".jpg",
+      "size": 4191
+    },
+    {
+      "start": 4191,
+      "end": 6521,
+      "kind": "unmapped",
+      "size": 2330
+    },
+    {
+      "start": 6521,
+      "end": 10050,
+      "kind": "artifact",
+      "type": ".jpg",
+      "size": 3529
+    },
+    {
+      "start": 10050,
+      "end": 663334,
+      "kind": "unmapped",
+      "size": 653284
+    }
+  ],
+  "warnings": [
+    {
+      "offset": 0,
+      "type": "high-entropy",
+      "message": "High entropy range may indicate compression, encryption, or packed data"
+    },
+    {
+      "offset": 6521,
+      "type": "high-entropy",
+      "message": "High entropy range may indicate compression, encryption, or packed data"
+    }
+  ],
+  "execution_seconds": 0.0534
+}

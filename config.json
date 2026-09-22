@@ -1,0 +1,13 @@
+{
+  "inputs": [
+    "samples/mixed.bin",
+    "samples/truncated.bin"
+  ],
+  "output": "config-results",
+  "backend": "python",
+  "types": [
+    "jpg",
+    "pdf",
+    "png"
+  ]
+}

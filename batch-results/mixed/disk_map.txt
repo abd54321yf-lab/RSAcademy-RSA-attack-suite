@@ -1,0 +1,5 @@
+RSAcademy | /home/ubuntu/RSAcademy - RSA attack suite/samples/mixed.bin
+Backend: python | Artifacts: 2
+Map: ##################################################################......
+- 0x00000006 .jpg 16 bytes valid entropy=3.4528
+- 0x00000022 .pdf 19 bytes valid entropy=3.6819

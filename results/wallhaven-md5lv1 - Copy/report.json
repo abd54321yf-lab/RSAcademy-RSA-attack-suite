@@ -1,0 +1,39 @@
+{
+  "project": "RSAcademy - RSA attack suite",
+  "source": {
+    "path": "C:\\Users\\hp\\Desktop\\RSAcademy - RSA attack suite\\wallpaper\\wallhaven-md5lv1 - Copy.png",
+    "size": 137058,
+    "md5": "57540f51ee495f0a3b25ad874e8749ea",
+    "sha256": "5c280371dcc2e2b06ffd580f91b9fb45a390c39c1edf72ba802b0d8e97222dfb",
+    "entropy": 7.1543
+  },
+  "backend": "python",
+  "extracted_files_count": 1,
+  "artifacts": [
+    {
+      "source": "C:\\Users\\hp\\Desktop\\RSAcademy - RSA attack suite\\wallpaper\\wallhaven-md5lv1 - Copy.png",
+      "offset": 0,
+      "size": 137058,
+      "file_type": "PNG image",
+      "extension": ".png",
+      "validation_status": "valid",
+      "md5": "57540f51ee495f0a3b25ad874e8749ea",
+      "sha256": "5c280371dcc2e2b06ffd580f91b9fb45a390c39c1edf72ba802b0d8e97222dfb",
+      "entropy": 7.1543,
+      "entropy_class": "high",
+      "truncated": false,
+      "extracted_path": "results\\wallhaven-md5lv1 - Copy\\extracted_files\\file_001_0x00000000.png"
+    }
+  ],
+  "offset_map": [
+    {
+      "start": 0,
+      "end": 137058,
+      "kind": "artifact",
+      "type": ".png",
+      "size": 137058
+    }
+  ],
+  "warnings": [],
+  "execution_seconds": 0.0242
+}

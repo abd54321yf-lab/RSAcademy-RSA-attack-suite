@@ -1,0 +1,4 @@
+RSAcademy | /home/ubuntu/RSAcademy - RSA attack suite/samples/truncated.bin
+Backend: python | Artifacts: 1
+Map: ########################################################################
+- 0x00000005 .png 19 bytes footer-missing-or-truncated entropy=3.9321

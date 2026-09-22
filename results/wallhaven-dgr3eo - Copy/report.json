@@ -1,0 +1,45 @@
+{
+  "project": "RSAcademy - RSA attack suite",
+  "source": {
+    "path": "C:\\Users\\hp\\Desktop\\RSAcademy - RSA attack suite\\wallpaper\\wallhaven-dgr3eo - Copy.jpg",
+    "size": 1304308,
+    "md5": "2f36c34bb1338787c80acb1c6b8c3f33",
+    "sha256": "9d03489df7b457b5dbde3132cb48f509b7edb47739321f502b809ca3cec21ca0",
+    "entropy": 7.9782
+  },
+  "backend": "python",
+  "extracted_files_count": 1,
+  "artifacts": [
+    {
+      "source": "C:\\Users\\hp\\Desktop\\RSAcademy - RSA attack suite\\wallpaper\\wallhaven-dgr3eo - Copy.jpg",
+      "offset": 0,
+      "size": 1304308,
+      "file_type": "JPEG image",
+      "extension": ".jpg",
+      "validation_status": "valid",
+      "md5": "2f36c34bb1338787c80acb1c6b8c3f33",
+      "sha256": "9d03489df7b457b5dbde3132cb48f509b7edb47739321f502b809ca3cec21ca0",
+      "entropy": 7.9782,
+      "entropy_class": "very-high",
+      "truncated": false,
+      "extracted_path": "results\\wallhaven-dgr3eo - Copy\\extracted_files\\file_001_0x00000000.jpg"
+    }
+  ],
+  "offset_map": [
+    {
+      "start": 0,
+      "end": 1304308,
+      "kind": "artifact",
+      "type": ".jpg",
+      "size": 1304308
+    }
+  ],
+  "warnings": [
+    {
+      "offset": 0,
+      "type": "high-entropy",
+      "message": "High entropy range may indicate compression, encryption, or packed data"
+    }
+  ],
+  "execution_seconds": 0.2207
+}

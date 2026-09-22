@@ -1,0 +1,78 @@
+{
+  "project": "RSAcademy - RSA attack suite",
+  "source": {
+    "path": "samples\\mixed.bin",
+    "size": 57,
+    "md5": "b3e9629a5b92fd2eed8b58a254d1555a",
+    "sha256": "0eb3a201702a9d1e9b7569d6e39bde4f2adecc1bbdfa7486a365b606b24794d3",
+    "entropy": 4.3454
+  },
+  "backend": "python",
+  "extracted_files_count": 2,
+  "artifacts": [
+    {
+      "source": "samples\\mixed.bin",
+      "offset": 6,
+      "size": 16,
+      "file_type": "JPEG image",
+      "extension": ".jpg",
+      "validation_status": "valid",
+      "md5": "b29299b7b1abb52501d533c0f335a131",
+      "sha256": "f322543dfed2aae089b037689a3aa5e5e706e7c6d790820f9b4ed769db6a8054",
+      "entropy": 3.4528,
+      "entropy_class": "medium",
+      "truncated": false,
+      "extracted_path": "config-results\\mixed\\extracted_files\\file_001_0x00000006.jpg"
+    },
+    {
+      "source": "samples\\mixed.bin",
+      "offset": 34,
+      "size": 19,
+      "file_type": "PDF document",
+      "extension": ".pdf",
+      "validation_status": "valid",
+      "md5": "38e90146d03a1d221520905fd67e750d",
+      "sha256": "3ef95c4e18513ed33bb3ac5f49ceec7b01a1eb80c302fa11fb63386eaf3c805e",
+      "entropy": 3.6819,
+      "entropy_class": "medium",
+      "truncated": false,
+      "extracted_path": "config-results\\mixed\\extracted_files\\file_002_0x00000022.pdf"
+    }
+  ],
+  "offset_map": [
+    {
+      "start": 0,
+      "end": 6,
+      "kind": "unmapped",
+      "size": 6
+    },
+    {
+      "start": 6,
+      "end": 22,
+      "kind": "artifact",
+      "type": ".jpg",
+      "size": 16
+    },
+    {
+      "start": 22,
+      "end": 34,
+      "kind": "unmapped",
+      "size": 12
+    },
+    {
+      "start": 34,
+      "end": 53,
+      "kind": "artifact",
+      "type": ".pdf",
+      "size": 19
+    },
+    {
+      "start": 53,
+      "end": 57,
+      "kind": "unmapped",
+      "size": 4
+    }
+  ],
+  "warnings": [],
+  "execution_seconds": 0.007
+}

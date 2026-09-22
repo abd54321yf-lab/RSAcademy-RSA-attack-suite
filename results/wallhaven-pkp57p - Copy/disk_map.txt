@@ -1,0 +1,4 @@
+RSAcademy | C:\Users\hp\Desktop\RSAcademy - RSA attack suite\wallpaper\wallhaven-pkp57p - Copy.jpg
+Backend: python | Artifacts: 1
+Map: ########################################################################
+- 0x00000000 .jpg 535431 bytes valid entropy=7.9916

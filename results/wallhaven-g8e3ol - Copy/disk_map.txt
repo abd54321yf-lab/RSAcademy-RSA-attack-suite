@@ -1,0 +1,5 @@
+RSAcademy | C:\Users\hp\Desktop\RSAcademy - RSA attack suite\wallpaper\wallhaven-g8e3ol - Copy.jpg
+Backend: python | Artifacts: 2
+Map: #.......................................................................
+- 0x00000000 .jpg 5795 bytes valid entropy=7.7322
+- 0x00001FBB .jpg 5401 bytes valid entropy=7.8366

@@ -1,0 +1,4 @@
+RSAcademy | C:\Users\hp\Desktop\RSAcademy - RSA attack suite\telegram\Database Mangagement System\Chapter 1\Chapter 1 explain.pdf
+Backend: python | Artifacts: 1
+Map: #######################################################################.
+- 0x00000000 .pdf 384519 bytes valid entropy=7.9542

@@ -1,0 +1,4 @@
+RSAcademy | C:\Users\hp\Desktop\RSAcademy - RSA attack suite\wallpaper\705-1920x1080-desktop-1080p-red-dead-redemption-wallpaper - Copy.jpg
+Backend: python | Artifacts: 1
+Map: ########################################################################
+- 0x00000000 .jpg 157597 bytes valid entropy=7.8764

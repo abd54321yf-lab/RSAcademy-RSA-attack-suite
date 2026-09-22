@@ -1,0 +1,51 @@
+{
+  "project": "RSAcademy - RSA attack suite",
+  "source": {
+    "path": "/home/ubuntu/RSAcademy - RSA attack suite/samples/truncated.bin",
+    "size": 24,
+    "md5": "9e0192501894350d3bf5b9f31821e995",
+    "sha256": "d7605b857791634c1d1db750d6d42a06821830a7311e8fcd482c06e0d657deb1",
+    "entropy": 4.1683
+  },
+  "backend": "python",
+  "extracted_files_count": 1,
+  "artifacts": [
+    {
+      "source": "/home/ubuntu/RSAcademy - RSA attack suite/samples/truncated.bin",
+      "offset": 5,
+      "size": 19,
+      "file_type": "PNG image",
+      "extension": ".png",
+      "validation_status": "footer-missing-or-truncated",
+      "md5": "75921bb1d8815ec561146b0e9f4a41f4",
+      "sha256": "4071a8b27f0b4272bdf87ead93e2331edf4235fdbb294470d74f0f4e1b01375e",
+      "entropy": 3.9321,
+      "entropy_class": "medium",
+      "truncated": true,
+      "extracted_path": "batch-results/truncated/extracted_files/file_001_0x00000005.png"
+    }
+  ],
+  "offset_map": [
+    {
+      "start": 0,
+      "end": 5,
+      "kind": "unmapped",
+      "size": 5
+    },
+    {
+      "start": 5,
+      "end": 24,
+      "kind": "artifact",
+      "type": ".png",
+      "size": 19
+    }
+  ],
+  "warnings": [
+    {
+      "offset": 5,
+      "type": "truncated-artifact",
+      "message": "PNG image has no bounded footer"
+    }
+  ],
+  "execution_seconds": 0.0003
+}
